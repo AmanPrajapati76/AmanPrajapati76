@@ -23,4 +23,5 @@
 
 ### 📫 Connect
 - 📍 Ghaziabad, Uttar Pradesh
-- LinkedIn:https://www.linkedin.com/in/aman-prajapati-022a4b28b/
+- LinkedIn:https://www.linkedin.com/in/aman-prajapati-dev
+
